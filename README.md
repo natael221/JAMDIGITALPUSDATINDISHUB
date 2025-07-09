@@ -119,6 +119,18 @@ Includes:
 * Quotes from remote/local API
 * Wi-Fi info & device status page
 
+### 📷 Web Interface Screenshot
+
+![ESP32 Web UI](doc/web_ui.jpeg)
+
+---
+
+## 🚀 Real Device Preview
+
+Below is the actual device displaying time, humidity, and other data on the P10 LED matrix panel:
+
+![Device Display](doc/device_display.jpeg)
+
 ---
 
 ## 🔁 System Workflow
