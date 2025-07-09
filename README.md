@@ -121,7 +121,7 @@ Includes:
 
 ### 📷 Web Interface Screenshot
 
-![ESP32 Web UI](doc/web_ui.jpeg)
+![ESP32 Web UI](doc/web-ui.jpg)
 
 ---
 
@@ -129,7 +129,7 @@ Includes:
 
 Below is the actual device displaying time, humidity, and other data on the P10 LED matrix panel:
 
-![Device Display](doc/device_display.jpeg)
+![Device Display](doc/device-display.jpeg)
 
 ---
 
